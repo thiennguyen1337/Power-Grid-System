@@ -1,5 +1,5 @@
 # Power Grid Management System
-This project is aimed at simulating a Power Grid Management System. It allows users to manage and monitor various components of a power grid network including power plants, transmission lines, and substations.
+
 ## Features
 - Adding and removing power plants of different types (coal, nuclear, solar).
 - Managing transmission lines including capacity, length, and status.
