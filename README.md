@@ -10,8 +10,3 @@ Class project (COSC 1437) aimed at simulating a Power Grid Management System. It
 1. Clone or download the project to your local machine.
 2. Open the project in a C++ development environment such as Visual Studio.
 3. Build and run the project.
-## Implementation Details
-- The project is organized into classes representing different components of the power grid.
-- The main class `PowerGridManagementSystem` provides functions to interact with power plants, transmission lines, and substations.
-- Additional functionalities such as fault detection, load balancing, and voltage regulation are implemented within the `PowerGridManagementSystem` class.
-- The `main()` function demonstrates how to use the functionalities provided by the `PowerGridManagementSystem`.
